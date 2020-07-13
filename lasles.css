@@ -1,0 +1,259 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin:0px, auto;
+font-family: 'Rubik', sans-serif;
+}
+header{
+    display: flex;
+    margin:20px;
+    padding: 20px;
+}
+
+.sign > a, .link > a{
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    color: black;
+padding: 20px;
+margin-top: 40px;
+}
+.sign{
+    padding-left:40px;
+}
+.header
+.lasless{
+    font-weight: bold;
+    font-size:16px;
+}
+.main-one{
+    display:flex;
+margin-top:15vh;
+}
+.main-text{
+    margin-left: 150px;
+margin-top:auto;
+}
+.main-text > h2{
+    font-size: 50px;
+	width:460px;
+}
+.main-text > p{ line-height:30px; margin-top:10px;
+}
+
+
+.logos{
+    margin-left: 150px;
+margin-top:20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:1140px;
+    height:200px;
+    
+}
+.first, .middle, .last{
+display:flex; position:relative;
+padding:50px;
+text-align:center;
+}
+
+.user{
+border-right: 2px solid rgb(200, 199, 199);
+padding-right: 10%;
+margin-right: 10px;
+display:flex; position:relative;
+
+}
+.shift{ padding-left:10%;}
+.shift > h5{ font-size:18px;}
+.last{
+    border-right:none;
+}
+.second-image{
+    margin:184.52px;
+display:flex;
+}
+.second-again{margin-left:40px; }
+.second-again  h2, .second-again  p{ margin-bottom:20px; margin-left:10px; width:350px;
+}
+.second-again img{padding-left:10px;
+width:25px; height:25px;}
+.cont{display:flex; justify-content:center;}
+.plan{
+    padding: 5%;
+   text-align: center;
+}
+.plan h2, .plan p{padding:1%;}
+.plan-pic, .tick{
+    display: flex;
+}
+
+.pre-pic {   display:flex; justify-content:center; padding:20px 0;
+    }
+.premium1, .premium2, .premium3{
+    width: 330px;
+    height: 760px;
+    border: 1px solid rgb(200, 199, 199);
+    border-radius: 10px;
+    margin-right: 50px;  background: white;
+}
+.premium1{
+    margin-left: 174.14px;
+}
+.premium-justify{padding-left:20%; padding-bottom:20%;}
+.tick{ padding-bottom:15%;}
+.sponsored{
+margin-left:150px;
+margin-bottom:0px;
+padding:0px;
+}
+
+.unique{ border:2px solid red;
+color:red;font-weight: bold;
+border-radius:20px;
+width: 177.88px;
+height: 45px;
+justify-content:center;
+ background: white;
+}
+.thin{
+font-weight:0px;
+
+}
+
+.global, .global1{padding:5%; margin-top:30px; text-align:center;}
+.scroll-image{
+width:400px;
+height:230px;
+border: 3px solid red;
+border-radius:5px;
+margin-right:50px;
+}
+.scroll{
+margin-left:150px;
+
+justify-content:center;
+display:flex;
+}
+.scroll-image2, .scroll-image3{
+width:400px;
+height:230px;
+border: 2px solid #dddddd;
+border-radius:5px;
+margin-right:50px;
+}
+.scroll-image-adjust{
+justify-content:center;
+align-items:center;
+display:flex;
+padding-left:30px;
+padding-bottom:20px;
+padding-top:30px;
+padding-right: 30px;
+}
+.scroll-image, .scroll-image2, .scroll-image3 > p{
+
+padding: 30px;
+padding-top: 0px; 
+}
+.scroll-button-main{
+display:flex;
+}
+
+.star{
+padding-left:77.98px;
+}
+
+.subscribe{
+position: absolute;
+width: 1140px;
+height: 233px;
+left: 150px;
+top: 4509.28px;
+border:1px solid;
+border-radius: 10px;
+background: #fff;
+display:flex;
+}
+
+.subscribe1 > h2, .subscribe1 > p{
+padding-left:70px;
+padding-top:58.8px;
+left: 220px;
+top: 4567.78px;
+}
+.subscribe1 > p{ font-size:16px; ;
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+}
+.subscribe1 > h2{ font-size:35px; line-height45px; width: 371.61px;
+height: 40px; padding-bottom:0px;}
+
+.subscribe-but{width: 250px;
+left: 970px;
+top: 4595.78px;
+background:red;
+color:white; font-weight: bold;
+border-radius:20px;
+width: 177.88px;
+height: 45px;
+border:none;
+}
+.but-one{
+margin-top:15px;
+}
+.but-two{margin:auto;
+}
+
+.last-div{
+position: absolute;
+width: 1440px;
+height: 563.12px;
+left: 0px;
+top: 4625.78px;
+z-index:-3;
+background: #F8F8F8;
+display:flex;
+}
+.div-class2{
+
+position: absolute;
+width: 74px;
+height: 280px;
+left: 720px;
+top: 4808.89px;
+}
+
+#copy, .thin{
+color: #AFB5C0;
+}
+.last-div > .last-div1{
+padding-left: 150px;
+padding-right: 230px;
+padding-top: 180px;
+}
+.last-div > .last-div1 p{
+font-size:16px; width: 340px;
+height: 61.57px; line-height: 30px;
+}
+.last-div2, .last-div3, .last-div4{
+padding-left:0;
+padding-right:126px;
+padding-top: 180px;
+}
+.last-div4{padding-right:0px;}
+
+.last-div  h6{
+padding-bottom:20px;
+font-size:18px;
+}
+.last-div  p{
+padding-bottom:10px;
+}
+#trust{font-size:35px; line-height:50px; font-weight:bold; width: 447.81px;
+height: 100px; text-align:center;}
+.plan, .plan-pic{background-color: #F8F8F8}
